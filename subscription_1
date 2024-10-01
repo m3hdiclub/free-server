@@ -1,72 +1,213 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.228:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V1
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.60:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V2
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.100:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V3
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.97:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V4
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.234:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V5
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.153:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V6
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.235.33.157:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V7
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.8.123:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V8
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.18.62:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V9
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.44:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V10
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.91:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V11
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.185:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V12
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.138:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V13
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.85.84:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V14
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.134:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V15
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.96:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V16
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.144:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V17
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.235.33.159:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V18
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.85:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V19
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.84:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V20
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.65.255:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V21
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.6.51:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V22
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.177:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V23
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.140:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V24
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.92.255:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V25
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.85.228:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V26
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.85.79:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V27
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.85.194:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V28
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.15.13:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V29
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.130:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V30
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.193:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V31
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.174:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V32
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.235.37.81:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V33
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.85.174:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V34
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.149:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V35
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.235.33.114:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V36
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.6.66:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V37
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.85.153:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V38
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.85.203:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V39
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.85.223:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V40
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.85.97:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V41
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.8.31:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V42
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.6.53:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V43
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.235.37.114:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V44
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.158:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V45
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.200:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V46
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.26.64:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V47
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.33.29:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V48
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.26.225:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V49
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.85.193:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V50
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.79:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V51
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.21:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V52
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.93:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V53
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.1.255:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V54
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.85.158:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V55
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.213:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V56
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.6.219:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V57
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.85.157:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V58
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.7.154:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V59
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.85.81:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V60
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.247:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V61
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.152.40:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V62
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.223:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V63
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.85.239:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV4_V64
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2a04:4e42:3b4f:ed8d:587a:8041:50b3:e3ea]:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV6_V1
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2a04:4e42:3466:e8e9:47b8:700c:3c9:5665]:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV6_V2
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2a04:4e42:30a6:fcad:f55e:606b:2f5a:169]:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV6_V3
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2a04:4e42:3552:e7ce:2adb:a039:2074:9e46]:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV6_V4
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2a04:4e42:3b2c:8611:9ddc:8592:4827:e865]:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV6_V5
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2a04:4e42:39be:79ed:73b2:6031:8314:49a]:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV6_V6
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2a04:4e42:3b66:2029:4171:6060:6214:c720]:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV6_V7
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2a04:4e42:3c51:c93e:7e72:6010:d814:988f]:443?encryption=none&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560#Fastly_%28%40amin_o__o%29_IPV6_V8
+{
+    "dns": {
+        "final": "local-dns",
+        "rules": [
+            {
+                "clash_mode": "Global",
+                "server": "proxy-dns",
+                "source_ip_cidr": [
+                    "172.19.0.0/30"
+                ]
+            },
+            {
+                "server": "proxy-dns",
+                "source_ip_cidr": [
+                    "172.19.0.0/30"
+                ]
+            },
+            {
+                "clash_mode": "Direct",
+                "server": "direct-dns"
+            },
+            {
+                "rule_set": [
+                    "geosite-ir"
+                ],
+                "server": "direct-dns"
+            }
+        ],
+        "servers": [
+            {
+                "address": "https://208.67.222.222/dns-query",
+                "address_resolver": "local-dns",
+                "detour": "proxy",
+                "tag": "proxy-dns"
+            },
+            {
+                "address": "local",
+                "detour": "direct",
+                "tag": "local-dns"
+            },
+            {
+                "address": "rcode://success",
+                "tag": "block"
+            },
+            {
+                "address": "local",
+                "detour": "direct",
+                "tag": "direct-dns"
+            }
+        ],
+        "strategy": "prefer_ipv4"
+    },
+    "inbounds": [
+        {
+            "auto_route": true,
+            "endpoint_independent_nat": false,
+            "inet4_address": "172.19.0.1/30",
+            "mtu": 9000,
+            "platform": {
+                "http_proxy": {
+                    "enabled": true,
+                    "server": "127.0.0.1",
+                    "server_port": 2080
+                }
+            },
+            "sniff": true,
+            "stack": "system",
+            "strict_route": false,
+            "type": "tun"
+        },
+        {
+            "listen": "127.0.0.1",
+            "listen_port": 2080,
+            "sniff": true,
+            "type": "mixed",
+            "users": []
+        }
+    ],
+    "outbounds": [
+        {
+            "outbounds": [
+                "auto",
+                "direct",
+                "@KevinZakarian-iVPN.Pro"
+            ],
+            "tag": "proxy",
+            "type": "selector"
+        },
+        {
+            "interval": "10m",
+            "outbounds": [
+                "@KevinZakarian-iVPN.Pro"
+            ],
+            "tag": "auto",
+            "tolerance": 50,
+            "type": "urltest",
+            "url": "http://www.gstatic.com/generate_204"
+        },
+        {
+            "tag": "direct",
+            "type": "direct"
+        },
+        {
+            "tag": "dns-out",
+            "type": "dns"
+        },
+        {
+            "tag": "block",
+            "type": "block"
+        },
+        {
+            "type": "hysteria2",
+            "tag": "@KevinZakarian-iVPN.Pro",
+            "server_port": 443,
+            "obfs": {
+                "type": "salamander",
+                "password": "@KevinZakarian-iVPN.Pro"
+            },
+            "password": "DYgjw9vEmX",
+            "server": "mtn-public.serverv.net",
+            "tls": {
+                "enabled": true,
+                "insecure": true,
+                "min_version": "1.3",
+                "max_version": "1.3",
+                "server_name": "www.google.com",
+                "alpn": [
+                    "h3"
+                ],
+                "ech": {
+                    "enabled": true,
+                    "pq_signature_schemes_enabled": true,
+                    "config": [
+                        "-----BEGIN ECH CONFIGS-----",
+                        "AEX+DQBBAAAgACAWCCk5Rc3aUOyK/0lIEnWIm+FQgt8PrXsikl1T18lvawAIAAEA",
+                        "AQABAAMADnd3dy5nb29nbGUuY29tAAA=",
+                        "-----END ECH CONFIGS-----"
+                    ]
+                }
+            }
+        }
+    ],
+    "route": {
+        "auto_detect_interface": true,
+        "final": "proxy",
+        "rule_set": [
+            {
+                "download_detour": "direct",
+                "format": "binary",
+                "tag": "geosite-ads",
+                "type": "remote",
+                "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/category-ads-all.srs"
+            },
+            {
+                "download_detour": "direct",
+                "format": "binary",
+                "tag": "geosite-private",
+                "type": "remote",
+                "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/private.srs"
+            },
+            {
+                "download_detour": "direct",
+                "format": "binary",
+                "tag": "geosite-ir",
+                "type": "remote",
+                "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/category-ir.srs"
+            },
+            {
+                "download_detour": "direct",
+                "format": "binary",
+                "tag": "geoip-private",
+                "type": "remote",
+                "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geoip/private.srs"
+            },
+            {
+                "download_detour": "direct",
+                "format": "binary",
+                "tag": "geoip-ir",
+                "type": "remote",
+                "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geoip/ir.srs"
+            }
+        ],
+        "rules": [
+            {
+                "clash_mode": "Direct",
+                "outbound": "direct"
+            },
+            {
+                "clash_mode": "Global",
+                "outbound": "proxy"
+            },
+            {
+                "outbound": "dns-out",
+                "protocol": "dns"
+            },
+            {
+                "outbound": "direct",
+                "rule_set": [
+                    "geosite-ir",
+                    "geoip-ir"
+                ]
+            },
+            {
+                "outbound": "block",
+                "rule_set": [
+                    "geoip-private",
+                    "geosite-private",
+                    "geosite-ads"
+                ]
+            }
+        ]
+    }
+}
