@@ -117,7 +117,7 @@
                 "password": "@KevinZakarian-iVPN.Pro"
             },
             "password": "M7Rm3LCaBQ",
-            "server": "tci-public.serverv.net",
+            "server": "mci-public.serverv.net",
             "tls": {
                 "enabled": true,
                 "insecure": true,
