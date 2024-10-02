@@ -1,1 +1,293 @@
-{"outbounds": [{"type": "xray", "tag": "Fastly § 0", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "199.232.5.185", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 1", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "104.156.81.138", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 2", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "199.232.5.91", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 3", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "104.156.85.84", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 4", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "104.156.81.134", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 5", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "199.232.5.96", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 6", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "199.232.5.144", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 7", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "23.235.33.159", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 8", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "199.232.5.85", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 9", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "104.156.81.84", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 10", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "140.248.65.255", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 11", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "199.232.6.51", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 12", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "199.232.0.177", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 13", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "199.232.32.140", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 14", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "104.156.92.255", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 15", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "104.156.85.228", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 16", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "104.156.85.79", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 17", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "104.156.85.194", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 18", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "199.232.15.13", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 19", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "199.232.5.130", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 20", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "104.156.81.193", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 21", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "104.156.81.174", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 22", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "23.235.37.81", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 23", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "104.156.85.174", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 24", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "199.232.5.149", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 25", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "23.235.33.114", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 26", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "199.232.6.66", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 27", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "104.156.85.153", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 28", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "104.156.85.203", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 29", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "104.156.85.223", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 30", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "104.156.85.97", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 31", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "199.232.8.31", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 32", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "199.232.6.53", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 33", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "23.235.37.114", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 34", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "104.156.81.158", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 35", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "104.156.81.200", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 36", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "199.232.26.64", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 37", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "199.232.33.29", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 38", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "199.232.26.225", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 39", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "104.156.85.193", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 40", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "104.156.81.79", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 41", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "199.232.0.21", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 42", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "104.156.81.93", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 43", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "199.232.1.255", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 44", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "104.156.85.158", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 45", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "199.232.32.213", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 46", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "199.232.6.219", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 47", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "104.156.85.157", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 48", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "199.232.7.154", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 49", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "104.156.85.81", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 50", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "199.232.32.247", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 51", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "140.248.152.40", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 52", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "104.156.81.223", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}, {"type": "xray", "tag": "Fastly § 53", "xray_outbound_raw": {"protocol": "vless", "settings": {"vnext": [{"address": "104.156.85.239", "port": 443, "users": [{"encryption": "none", "flow": "", "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"}]}]}, "streamSettings": {"network": "ws", "security": "tls", "tlsSettings": {"allowInsecure": true, "alpn": ["http/1.1"], "fingerprint": "randomized", "rejectUnknownSni": false, "serverName": "en.mfa.gov.ir"}, "wsSettings": {"headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}, "host": "en.mfa.gov.ir", "path": "/H?ed=2560"}}, "tag": "Fastly"}, "xray_fragment": {"packets": "tlshello", "length": "20-40", "interval": "2-4", "host1_header": "", "host1_domain": "", "host2_header": "", "host2_domain": ""}, "xray_loglevel": ""}]}
+//profile-title: base64:4Zev4Zep4ZaH4ZGt8J+XveGRreGWh08=
+//profile-update-interval: 48
+//subscription-userinfo: upload=5368709120; download=117037858816; total=955630223360; expire=1762677732
+//profile-web-page-url: mansor427
+
+
+{
+    "log": {
+      "level": "warn",
+      "output": "box.log",
+      "timestamp": true
+    },
+    "dns": {
+      "servers": [
+        {
+          "tag": "dns-remote",
+          "address": "tcp://8.8.4.4",
+          "address_resolver": "dns-direct"
+        },
+        {
+          "tag": "dns-trick-direct",
+          "address": "https://sky.rethinkdns.com/",
+          "detour": "direct-fragment"
+        },
+        {
+          "tag": "dns-direct",
+          "address": "tcp://8.8.4.4",
+          "address_resolver": "dns-local",
+          "detour": "direct"
+        },
+        {
+          "tag": "dns-local",
+          "address": "local",
+          "detour": "direct"
+        },
+        {
+          "tag": "dns-block",
+          "address": "rcode://success"
+        }
+      ],
+      "rules": [
+        {
+          "domain_suffix": ".ir",
+          "geosite": "ir",
+          "server": "dns-direct"
+        },
+        {
+          "domain": "cp.cloudflare.com",
+          "server": "dns-remote",
+          "rewrite_ttl": 3000
+        }
+      ],
+      "final": "dns-remote",
+      "static_ips": {
+        "sky.rethinkdns.com": [
+          "188.114.96.3",
+          "188.114.97.3",
+          "2a06:98c1:3120::3",
+          "2a06:98c1:3121::3",
+          "104.18.203.232",
+          "104.18.202.232",
+          "188.114.96.6",
+          "188.114.97.6",
+          "2a06:98c1:3121::3",
+          "2a06:98c1:3120::3"
+        ]
+      },
+      "independent_cache": true
+    },
+    "inbounds": [
+      {
+        "type": "tun",
+        "tag": "tun-in",
+        "mtu": 9000,
+        "inet4_address": "172.19.0.1/28",
+        "inet6_address": "fdfe:dcba:9876::1/126",
+        "auto_route": true,
+        "strict_route": true,
+        "endpoint_independent_nat": true,
+        "sniff": true,
+        "sniff_override_destination": true
+      },
+      {
+        "type": "mixed",
+        "tag": "mixed-in",
+        "listen": "127.0.0.1",
+        "listen_port": 2334,
+        "sniff": true,
+        "sniff_override_destination": true
+      },
+      {
+        "type": "direct",
+        "tag": "dns-in",
+        "listen": "127.0.0.1",
+        "listen_port": 6440,
+        "override_address": "1.1.1.1",
+        "override_port": 53
+      }
+    ],
+    "outbounds": [
+      {
+        "type": "selector",
+        "tag": "select",
+        "outbounds": [
+          "auto",
+          "ÐΛɌ₭ᑎΞ𐒡𐒡",
+          " 🇳🇱",
+          " 🇯🇵",
+          " 🇺🇲",
+          " 🇳🇱 2",
+          " 🇯🇵 2",
+          " 🇺🇲 2"
+        ],
+        "default": "auto"
+      },
+      {
+        "type": "urltest",
+        "tag": "auto",
+        "outbounds": [
+          "ÐΛɌ₭ᑎΞ𐒡𐒡",
+          " 🇳🇱",
+          " 🇯🇵",
+          " 🇺🇲",
+          " 🇳🇱 2",
+          " 🇯🇵 2",
+          " 🇺🇲 2"
+        ],
+        "url": "http://www.gstatic.com/generate_204",
+        "interval": "10m0s"
+      },
+      {
+        "type": "wireguard",
+        "tag": "ÐΛɌ₭ᑎΞ𐒡𐒡",
+        "local_address": [
+          "172.16.0.2/24",
+          "2606:4700:110:8056:6ec9:563a:d8e7:5097/128"
+        ],
+        "private_key": "AN/vE11+V8r25aGti20+ZPv3LfWckXfzGJlDQuxpCkc=",
+        "server": "162.159.192.171",
+        "server_port": 864,
+        "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+        "reserved": "bfY2",
+      "mtu": 1306,
+      "fake_packets_mode": "m4",
+      "fake_packets": "40-80",
+      "fake_packets_size": "40-100",
+      "fake_packets_delay": "4-8"
+      },
+      {
+        "type": "wireguard",
+        "tag": " 🇳🇱",
+        "detour": "ÐΛɌ₭ᑎΞ𐒡𐒡",
+        "local_address": [
+          "10.2.0.2/32"
+        ],
+        "private_key": "aLACvfzNbE8WeBnF/eC18mPR0N1dry4wxqZGcnACAkU=",
+        "server": "185.177.126.140",
+        "server_port": 51820,
+        "peer_public_key": "ROYne+FuXzmkdjo1qgSP+7YtkziVekGbmI7ie+dwbwA=",
+        "mtu": 1280
+      },
+      {
+        "type": "wireguard",
+        "tag": " 🇳🇱 2",
+        "detour": "ÐΛɌ₭ᑎΞ𐒡𐒡",
+        "local_address": [
+          "10.2.0.2/32"
+        ],
+        "private_key": "0IuEcoh2yaT38g7Ai4k7wQJBe+1PTM9LXSv4/fgwXl4=",
+        "server": "185.177.126.14",
+        "server_port": 51820,
+        "peer_public_key": "wweP0YfxgQTCes+5UoXfhLbWXvHXGnwQkozFzvBA/i4=",
+        "mtu": 1280
+      },
+     {
+        "type": "wireguard",
+        "tag": " 🇯🇵",
+        "detour": "ÐΛɌ₭ᑎΞ𐒡𐒡",
+        "local_address": [
+          "10.2.0.2/32"
+        ],
+        "private_key": "WADim8Wu0KSF+adoVaxoB0am30YdC5zaXqRq8cgD5VQ=",
+        "server": "138.199.22.97",
+        "server_port": 51820,
+        "peer_public_key": "MqSC5RXp76BxqvagxLEIgLyqfWmnYbDW1COUd9wX1As=",
+        "mtu": 1280
+      },
+      {
+        "type": "wireguard",
+        "tag": " 🇯🇵 2",
+        "detour": "ÐΛɌ₭ᑎΞ𐒡𐒡",
+        "local_address": [
+          "10.2.0.2/32"
+        ],
+        "private_key": "2GupREfHuyqAAXYIV+IDKlRaQtok6P1yBmN0cnq0+Wo=",
+        "server": "45.14.71.5",
+        "server_port": 51820,
+        "peer_public_key": "E5wPCWdLcrvCn8DI8/vetPVrOyIKFMpdgdhrVsTUdBU=",
+        "mtu": 1280
+      },
+      {
+        "type": "wireguard",
+        "tag": " 🇺🇲",
+        "detour": "ÐΛɌ₭ᑎΞ𐒡𐒡",
+        "local_address": [
+          "10.2.0.2/32"
+        ],
+        "private_key": "KASI5h1pQxXd6TXnkFBE2X1hJskdL8a27FlwE1CV5WU=",
+        "server": "138.199.52.193",
+        "server_port": 51820,
+        "peer_public_key": "93rOlHiU4A7ACRTdqButvAjwrccdOgOIHwFMumODvgo=",
+        "mtu": 1280
+      },
+      {
+        "type": "wireguard",
+        "tag": " 🇺🇲 2",
+        "detour": "ÐΛɌ₭ᑎΞ𐒡𐒡",
+        "local_address": [
+          "10.2.0.2/32"
+        ],
+        "private_key": "EHdMrOWtSRgouLS0nW0ZZn1pUuHzuCA1IN6vsDXKOXc=",
+        "server": "156.146.54.81",
+        "server_port": 51820,
+        "peer_public_key": "FF79Ab2fcEYtsyNYxviTUtVxJLuvUcoEOpl8DYbdsgg=",
+        "mtu": 1280
+      },
+      {
+        "type": "dns",
+        "tag": "dns-out"
+      },
+      {
+        "type": "direct",
+        "tag": "direct"
+      },
+      {
+        "type": "direct",
+        "tag": "direct-fragment",
+        "tls_fragment": {
+          "enabled": true,
+          "size": "100-200",
+          "sleep": "10-15"
+        }
+      },
+      {
+        "type": "direct",
+        "tag": "bypass"
+      },
+      {
+        "type": "block",
+        "tag": "block"
+      }
+    ],
+    "route": {
+      "geoip": {
+        "path": "geo-assets/chocolate4u-iran-sing-box-rules-geoip.db"
+      },
+      "geosite": {
+        "path": "geo-assets/chocolate4u-iran-sing-box-rules-geosite.db"
+      },
+      "rules": [
+        {
+          "inbound": "dns-in",
+          "outbound": "dns-out"
+        },
+        {
+          "port": 53,
+          "outbound": "dns-out"
+        },
+        {
+          "clash_mode": "Direct",
+          "outbound": "direct"
+        },
+        {
+          "clash_mode": "Global",
+          "outbound": "select"
+        },
+        {
+          "domain_suffix": ".ir",
+          "geosite": "ir",
+          "geoip": "ir",
+          "outbound": "bypass"
+        }
+      ],
+      "auto_detect_interface": true,
+      "override_android_vpn": true
+    },
+    "experimental": {
+      "clash_api": {
+        "external_controller": "127.0.0.1:6756"
+      }
+    }
+  }
+  
