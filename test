@@ -75,12 +75,7 @@
        "outbounds": [
          "auto",
          "direct",
-         "hy2v4",
-         "hy2v6",
-		 "fastly",
-		 "gcore-1",
-		 "gcore-2",
-		 "gcore-3"
+         "hy2v4"
        ],
        "tag": "proxy",
        "type": "selector"
@@ -88,12 +83,7 @@
      {
        "interval": "10m",
        "outbounds": [
-         "hy2v4",
-         "hy2v6",
-		 "fastly",
-		 "gcore-1",
-		 "gcore-2",
-		 "gcore-3"
+         "hy2v4"
        ],
        "tag": "auto",
        "tolerance": 50,
@@ -121,33 +111,6 @@
        "server": "193.188.20.239",
        "server_port": 443,
        "tag": "hy2v4",
-       "tls": {
-         "alpn": [
-           "h3"
-         ],
-         "ech": {
-           "config": [
-             "-----BEGIN ECH CONFIGS-----",
-             "ADn+DQA1AAAgACD8gfOrnjX1LW+MqShEUBL9po0XR5vbY9dSDAbDePm8YAAIAAEA",
-             "AQABAAMAAicnAAA=",
-             "-----END ECH CONFIGS-----"
-           ]
-         },
-         "enabled": true,
-         "insecure": true,
-         "server_name": "www.google.com"
-       },
-       "type": "hysteria2"
-     },
-     {
-       "obfs": {
-         "password": "@m3hdiclub",
-         "type": "salamander"
-       },
-       "password": "rQTZnF5hFQ",
-       "server": "[2a0b:4140:6344::2]",
-       "server_port": 443,
-       "tag": "hy2v6",
        "tls": {
          "alpn": [
            "h3"
