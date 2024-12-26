@@ -1,3 +1,4 @@
+hysteria2://Telegram:@KevinZakarian@kevin.iserver.store:8443?sni=&alpn=&obfs=salamander&obfs-password=Telegram:@KevinZakarian&insecure=1#Tel:@KevinZakarian
 vless://5a5d9654-2f1e-4537-b3ca-e76168b2e03f@104.21.76.15:443?encryption=none&host=wlma.jeremaih-talik.workers.dev&path=%2FTELEGRAM-MARAMBASHI%2F&security=tls&sni=wlma.jeremaih-talik.workers.dev&type=ws#CF%E4%B8%AD%E8%BD%AC_1226131018
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.84.35:443?encryption=none&host=pPaL03.nAvIYI2139.wOrkERS.dev&path=%2F0TkRO7B5OMyy4gZu&security=tls&sni=PPAL03.NaVIYi2139.WOrKErs.dEV&type=ws#CF%E4%B8%AD%E8%BD%AC_1226131035
 vless://7c95e3b5-9c45-4795-f954-b0ca84e648a9@172.67.169.94:443?alpn=http%2F1.1&encryption=none&host=tabnak.twn24.ir&path=%2F41929%2F&security=tls&sni=tabnak.twn24.ir&type=ws#CF%E4%B8%AD%E8%BD%AC_1226131090
@@ -165,4 +166,3 @@ vless://e19fb179-e8bc-5f8a-91cc-57646cf20984@python.org:80?encryption=none&host=
 vless://f8e24e86-8464-4b07-8d17-fa471f7d68d9@3.18.196.26:443?encryption=none&host=ca.zhuk.us.kg&path=%2Fylks&security=tls&sni=ca.zhuk.us.kg&type=ws#%E7%BE%8E%E5%9B%BD_1226137216
 vless://0781284d-a777-43f8-b2b3-2a5275af79c2@65.109.184.88:22733?encryption=none&type=tcp#%E8%8A%AC%E5%85%B0_122613007
 vless://61eb66a8-bc41-491e-a8dc-270874140f41@83.147.2.169:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=contents.riot-cdn.com&type=tcp#%E8%A5%BF%E7%8F%AD%E7%89%99_122613007
-hysteria2://Telegram:@KevinZakarian@kevin.iserver.store:8443?sni=&alpn=&obfs=salamander&obfs-password=Telegram:@KevinZakarian&insecure=1#Tel:@KevinZakarian
