@@ -1,0 +1,189 @@
+
+    <svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+        <style>
+            .chart-title { font: bold 16px sans-serif; }
+            .axis-label { font: 12px sans-serif; }
+            .tick-label { font: 10px sans-serif; }
+            .bar { fill: #4f46e5; }
+            .bar:hover { fill: #6366f1; }
+            .timestamp { font: 10px sans-serif; fill: #666; }
+        </style>
+        
+        <!-- Title -->
+        <text x="400.0" y="30" text-anchor="middle" class="chart-title">
+            Channel Success Rates
+        </text>
+        
+        <!-- Y-axis -->
+        <line x1="60" y1="340" x2="60" y2="60" 
+              stroke="black" stroke-width="1"/>
+        
+        <!-- X-axis -->
+        <line x1="60" y1="340" x2="740" y2="340" 
+              stroke="black" stroke-width="1"/>
+        
+        <!-- Y-axis labels -->
+        <text x="50" y="340" text-anchor="end" class="axis-label">0%</text>
+        <text x="50" y="60" text-anchor="end" class="axis-label">100%</text>
+        
+        <!-- Bars and labels -->
+    
+        <g>
+            <rect x="60" y="60.0" width="56.81818181818182" height="280.0"
+                  class="bar"/>
+            <text x="90.9090909090909" y="380" 
+                  transform="rotate(45, 90.9090909090909, 380)"
+                  text-anchor="start" class="tick-label">
+                v2ray_free_conf
+            </text>
+            <text x="90.9090909090909" y="55.0" 
+                  text-anchor="middle" class="tick-label">
+                100.0%
+            </text>
+        </g>
+        
+        <g>
+            <rect x="121.81818181818181" y="200.0" width="56.81818181818182" height="140.0"
+                  class="bar"/>
+            <text x="152.72727272727272" y="380" 
+                  transform="rotate(45, 152.72727272727272, 380)"
+                  text-anchor="start" class="tick-label">
+                v2rayvpno
+            </text>
+            <text x="152.72727272727272" y="195.0" 
+                  text-anchor="middle" class="tick-label">
+                50.0%
+            </text>
+        </g>
+        
+        <g>
+            <rect x="183.63636363636363" y="60.0" width="56.81818181818182" height="280.0"
+                  class="bar"/>
+            <text x="214.54545454545453" y="380" 
+                  transform="rotate(45, 214.54545454545453, 380)"
+                  text-anchor="start" class="tick-label">
+                ZibaNabz
+            </text>
+            <text x="214.54545454545453" y="55.0" 
+                  text-anchor="middle" class="tick-label">
+                100.0%
+            </text>
+        </g>
+        
+        <g>
+            <rect x="245.45454545454544" y="60.0" width="56.81818181818182" height="280.0"
+                  class="bar"/>
+            <text x="276.3636363636364" y="380" 
+                  transform="rotate(45, 276.3636363636364, 380)"
+                  text-anchor="start" class="tick-label">
+                configV2rayForFree
+            </text>
+            <text x="276.3636363636364" y="55.0" 
+                  text-anchor="middle" class="tick-label">
+                100.0%
+            </text>
+        </g>
+        
+        <g>
+            <rect x="307.27272727272725" y="200.0" width="56.81818181818182" height="140.0"
+                  class="bar"/>
+            <text x="338.1818181818182" y="380" 
+                  transform="rotate(45, 338.1818181818182, 380)"
+                  text-anchor="start" class="tick-label">
+                v2rayngvpn
+            </text>
+            <text x="338.1818181818182" y="195.0" 
+                  text-anchor="middle" class="tick-label">
+                50.0%
+            </text>
+        </g>
+        
+        <g>
+            <rect x="369.09090909090907" y="60.0" width="56.81818181818182" height="280.0"
+                  class="bar"/>
+            <text x="400.0" y="380" 
+                  transform="rotate(45, 400.0, 380)"
+                  text-anchor="start" class="tick-label">
+                V2ray_Alpha
+            </text>
+            <text x="400.0" y="55.0" 
+                  text-anchor="middle" class="tick-label">
+                100.0%
+            </text>
+        </g>
+        
+        <g>
+            <rect x="430.9090909090909" y="200.0" width="56.81818181818182" height="140.0"
+                  class="bar"/>
+            <text x="461.8181818181818" y="380" 
+                  transform="rotate(45, 461.8181818181818, 380)"
+                  text-anchor="start" class="tick-label">
+                SvnV2ray
+            </text>
+            <text x="461.8181818181818" y="195.0" 
+                  text-anchor="middle" class="tick-label">
+                50.0%
+            </text>
+        </g>
+        
+        <g>
+            <rect x="492.7272727272727" y="200.0" width="56.81818181818182" height="140.0"
+                  class="bar"/>
+            <text x="523.6363636363636" y="380" 
+                  transform="rotate(45, 523.6363636363636, 380)"
+                  text-anchor="start" class="tick-label">
+                RadixVPN
+            </text>
+            <text x="523.6363636363636" y="195.0" 
+                  text-anchor="middle" class="tick-label">
+                50.0%
+            </text>
+        </g>
+        
+        <g>
+            <rect x="554.5454545454545" y="60.0" width="56.81818181818182" height="280.0"
+                  class="bar"/>
+            <text x="585.4545454545454" y="380" 
+                  transform="rotate(45, 585.4545454545454, 380)"
+                  text-anchor="start" class="tick-label">
+                PrivateVPNs
+            </text>
+            <text x="585.4545454545454" y="55.0" 
+                  text-anchor="middle" class="tick-label">
+                100.0%
+            </text>
+        </g>
+        
+        <g>
+            <rect x="616.3636363636364" y="200.0" width="56.81818181818182" height="140.0"
+                  class="bar"/>
+            <text x="647.2727272727273" y="380" 
+                  transform="rotate(45, 647.2727272727273, 380)"
+                  text-anchor="start" class="tick-label">
+                VlessConfig
+            </text>
+            <text x="647.2727272727273" y="195.0" 
+                  text-anchor="middle" class="tick-label">
+                50.0%
+            </text>
+        </g>
+        
+        <g>
+            <rect x="678.1818181818182" y="60.0" width="56.81818181818182" height="280.0"
+                  class="bar"/>
+            <text x="709.0909090909091" y="380" 
+                  transform="rotate(45, 709.0909090909091, 380)"
+                  text-anchor="start" class="tick-label">
+                freewireguard
+            </text>
+            <text x="709.0909090909091" y="55.0" 
+                  text-anchor="middle" class="tick-label">
+                100.0%
+            </text>
+        </g>
+        
+        <text x="740" y="390" text-anchor="end" class="timestamp">
+            Last updated: 2024-12-30T15:53:41.382265
+        </text>
+    </svg>
+    
