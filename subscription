@@ -1,5 +1,3 @@
-wireguard://2Cd3AZEeoz4JA%2Box2hRcjgEpPUqDnVOkMOvKNEB33Hc%3D@162.159.192.15:943?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A863e%3A3ca4%3Ac194%3Ae5f3%3Afcc9%2F128&presharedkey=&reserved=31%2C46%2C24&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%40V2ray1_Ng
-
 wireguard://CFx5a%2BH2JC3mc2OCa21AgH%2BDxz51%2FgNzJSsLgYos%2BE4%3D@188.114.98.251:8854?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A89ec%3A5d4%3Abc67%3Ace4b%3A6587%2F128&presharedkey=&reserved=106%2C207%2C207&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%40V2ray1_Ng
 
 wireguard://CFx5a%2BH2JC3mc2OCa21AgH%2BDxz51%2FgNzJSsLgYos%2BE4%3D@188.114.98.251:8854?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A89ec%3A5d4%3Abc67%3Ace4b%3A6587%2F128&presharedkey=&reserved=106%2C207%2C207&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#@mobilesignal
@@ -44,27 +42,27 @@ hysteria2://162bbc96-3a90-4c68-8ad1-59d6ed96add8@yukuai-us.jiumaojiu.org:48517?i
 
 hysteria2://162bbc96-3a90-4c68-8ad1-59d6ed96add8@yukuai-us.jiumaojiu.org:48706?insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2
 
-vless://011d10db-1401-4573-b7b0-ba45ad4da4d4@join.kiava.cloud.ohbah.com:2083?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&host=01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live&fp=chrome&type=xhttp&sni=01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live#%40V2ray1_Ng%20ALL
-
 vless://087e5e9e-5ac0-4d14-b659-b7991ddd15d8@172.66.47.116:443?path=/sJEKPxQXZXXECAPq/ZGUucmFkaWNhbGx5LnBybw%3D%3D&eh=Sec-WebSocket-Protocol&ed=2560&encryption=none&host=hamedp71-b.pages.dev&type=ws&security=tls&sni=haMEDP71-b.pAGEs.deV&fp=randomized&alpn=http/1.1#🇩🇪hamedp71🇩🇪
-
-vless://1efdef9d-31e6-4273-b64e-de6451a85b62@188.245.125.19:32578?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40V2ray1_Ng
-
-vless://1efdef9d-31e6-4273-b64e-de6451a85b62@nanishopact.ramvadminshop.com:32578?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40V2ray1_Ng
 
 vless://20c60350-172c-40c3-b1e0-ae495c43a424@91.134.38.117:58060?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@mobilesignal
 
-vless://213b2aa9-JebheAlNosrah@167.82.231.255:443?path=%2FF_ckUAsh0le%3Fed%3D2048&security=tls&alpn=h2&encryption=none&host=www.ip.gs&fp=randomized&type=ws#%40V2ray1_Ng
+vless://2b62f819-e006-4cb7-83f1-f9962f00caa1@151.101.194.133:443?path=%2F%40custom_config%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=leader-of-www.com&fp=chrome&type=ws&sni=mio.splashthat.com#%40V2ray1_Ng
+
+vless://2b62f819-e006-4cb7-83f1-f9962f00caa1@151.101.2.216:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&host=leader-of-www.com&type=ws#%40V2ray1_Ng%20ALL
+
+vless://322c98b0-1f0a-4a5c-9e7f-e6c7c52dbbd4@rose3.takshop.sbs:45545?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40V2ray1_Ng
 
 vless://3aef1001-72a9-4aa8-8e5a-cc9a73d8cfad@outshop.bestshop10.ir:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40V2ray1_Ng
 
-vless://40618d0e-d4ee-4dab-8ef9-61f1737435ea@fishlab.ucdavis.edu:443?path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=tls&encryption=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws&sni=fishlab.ucdavis.edu#%40V2ray1_Ng%20ALL
+vless://3c062455-7d69-407e-873e-e8f28c220c97@fishlab.ucdavis.edu:443?path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=tls&encryption=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws&sni=fishlab.ucdavis.edu#%40V2ray1_Ng%20ALL
 
 vless://46153d1a-ebe7-4218-9155-19618285a286@ir.bamtech.site:1720?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40V2ray1_Ng
 
-vless://4ea312d7-3844-4ff8-8062-ed2e03ddc2a1@151.101.66.133:80?path=%2Fws&security=none&encryption=none&host=scp-only.ws.com&type=ws#%40V2ray1_Ng
+vless://6c968a36-4889-47a6-99d6-b0399cd872c3@dena2.avaservice.sbs:31604?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40V2ray1_Ng
 
 vless://77f2d87d-c808-37d6-e70c-9aa442454eaa@173.199.122.162:443?mode=gun&security=reality&encryption=none&pbk=09fO1eQEJfCiXw-CXd3oEkSoBx2hHpX5ZbpdKkUyuiw&fp=chrome&type=grpc&serviceName=443vless&sni=roro44.com&sid=82da0e90491e74f4#@mobilesignal
+
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@94.232.244.5:2198?security=none&encryption=none&headerType=none&type=tcp#%40V2ray1_Ng
 
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.30:2198?security=none&encryption=none&headerType=none&type=tcp#@mobilesignal
 
@@ -82,7 +80,7 @@ vmess://eyJhZGQiOiIxNTEuMTAxLjIuMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 
 vmess://eyJhZGQiOiIxNTIuNjkuMTk3LjYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIxNTIuNjkuMTk3LjYwIiwiaWQiOiJhYzhlMjZmZS04MTUwLTRiNjAtYWU2NC04MmZjNzdlYmEyY2YiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMDY5IiwicHMiOiJAVjJyYXkxX05nIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-vmess://eyJhZGQiOiJiaWEtdnBuLXdoYWwuZmFzdC5ob3N0aW5nLWlwLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2hhbWVuZWktMzEzLklSLiIsImlkIjoiMGFmZGQ3ZjYtZTE1NS00ZmNjLWJhNzctYmRhNzI1NWUxZDBjIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZFx1MDAzZDgwLyNpZC10ZWxlZ3JhbTotLS1cdTAwM2VAdnBuX3doYWxcdTAwM2MtLS0iLCJwb3J0IjoiODAiLCJwcyI6IkBWMnJheTFfTmcgQUxMIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxODguMjQ1LjIxMS4xMzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNjQwZWE4OGItOGU1MC00ZTZlLThiYzMtOWY1MDk3YzYxN2RkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2RhP2VkXHUwMDNkMjU2MCIsInBvcnQiOiI4MDgwIiwicHMiOiJAVjJyYXkxX05nIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiJiaWEtdnBuLXdoYWwuZmFzdC5ob3N0aW5nLWlwLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2hhbWVuZWktMzEzLklSLiIsImlkIjoiNTcxMzg5N2MtNDZiNi00NDExLWFkNjAtNmNkZmVjNGVhYjA4IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZFx1MDAzZDgwLyNpZC10ZWxlZ3JhbTotLS1cdTAwM2VAdnBuX3doYWxcdTAwM2MtLS0iLCJwb3J0IjoiODAiLCJwcyI6IkBWMnJheTFfTmcgQUxMIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 
@@ -93,8 +91,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#@mo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMdXh5TmV0Qm90@23.88.37.31:443#%40V2ray1_Ng
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMdXh5TmV0Qm90@apple.slumbo.com:443#%40V2ray1_Ng
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.188:8080#%40V2ray1_Ng
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTekJxZ25oN1JBdlQ4RlpnVmdIWUdI@138.124.93.193:38500#@mobilesignal
 
