@@ -50,13 +50,15 @@ vless://18722220-9249-0051-5849-e8a8f1f76424@104.17.134.62:443?mode=gun&security
 
 vless://20c60350-172c-40c3-b1e0-ae495c43a424@91.134.38.117:58060?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@mobilesignal
 
-vless://2b62f819-e006-4cb7-83f1-f9962f00caa1@151.101.194.133:443?path=%2F%40custom_config%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=leader-of-www.com&fp=chrome&type=ws&sni=mio.splashthat.com#%40V2ray1_Ng
-
 vless://2ba43a6c-e3ad-452c-8445-faa25cc93de3@join.kiava.cloud.ohbah.com:2083?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&host=01942fe3-9d46-725f-abae-85b70b7e92d0.kiava.live&fp=chrome&type=xhttp&sni=01942fe3-9d46-725f-abae-85b70b7e92d0.kiava.live#%40V2ray1_Ng%20ALL
 
 vless://3c2e5f39-d738-40d4-929c-249ea568cb4a@65.109.228.235:45743?security=none&encryption=none&headerType=none&type=tcp#%40IrV2rey
 
 vless://3c2e5f39-d738-40d4-929c-249ea568cb4a@65.109.228.235:45743?security=none&encryption=none&headerType=none&type=tcp#%40V2ray1_Ng
+
+vless://3c2e5f39-d738-40d4-929c-249ea568cb4a@digikalacomgooglecomsof98varzesh3com3.bestsoftware4you.com:45743?security=none&encryption=none&headerType=none&type=tcp#%40V2ray1_Ng
+
+vless://4d8426b2-0af1-4eb5-a231-b62152d7b9b9@cloud.xmsvx.com:443?path=%2FTorVipxyy%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=aft.vc&fp=chrome&type=ws&sni=live.989bull.com#%40V2ray1_Ng
 
 vless://77f2d87d-c808-37d6-e70c-9aa442454eaa@173.199.122.162:443?mode=gun&security=reality&encryption=none&pbk=09fO1eQEJfCiXw-CXd3oEkSoBx2hHpX5ZbpdKkUyuiw&fp=chrome&type=grpc&serviceName=443vless&sni=roro44.com&sid=82da0e90491e74f4#@mobilesignal
 
@@ -69,8 +71,6 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.164.195:8080?encryption=none
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.215.113:8080?encryption=none&security=none&type=ws&host=green-rice-f490.7mehdinorouzi7.workers.dev&path=%2F#@m3hdiclub
 
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.61.8:8080?encryption=none&security=none&type=ws&host=green-rice-f490.7mehdinorouzi7.workers.dev&path=%2F#@m3hdiclub
-
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.148.22:8080?encryption=none&security=none&type=ws&host=green-rice-f490.7mehdinorouzi7.workers.dev&path=%2F#@m3hdiclub
 
 vmess://eyJhZGQiOiI5NS4xNjQuMTAuMTE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjEwMDg5YTU1LTI2YzAtNTIxNC05NTZiLWFjYWYzNDQ3MTE5YiIsIm5ldCI6ImdycGMiLCJwYXRoIjoidm1lc3MtZ3JwYyIsInBvcnQiOiI4ODgwIiwicHMiOiJAVjJyYXkxX05nIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
 
@@ -105,8 +105,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.c
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#Freebirdshttps://t.me/freeebirdss
 
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.95:443#%40V2ray1_Ng
-
-trojan://3169fbd0-c85d-11ef-807b-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp&sni=zula.ir#%40V2ray1_Ngسرعت پایدار @V2ray1_Ng
 
 trojan://3169fbd0-c85d-11ef-807b-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp&sni=zula.ir#%40V2ray1_Ngنامحدود ۲۴ ساعته 🇮🇷@V2ray1_Ng
 
