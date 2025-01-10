@@ -58,8 +58,6 @@ vless://3c2e5f39-d738-40d4-929c-249ea568cb4a@65.109.228.235:45743?security=none&
 
 vless://3c2e5f39-d738-40d4-929c-249ea568cb4a@digikalacomgooglecomsof98varzesh3com3.bestsoftware4you.com:45743?security=none&encryption=none&headerType=none&type=tcp#%40V2ray1_Ng
 
-vless://4d8426b2-0af1-4eb5-a231-b62152d7b9b9@cloud.xmsvx.com:443?path=%2FTorVipxyy%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=aft.vc&fp=chrome&type=ws&sni=live.989bull.com#%40V2ray1_Ng
-
 vless://77f2d87d-c808-37d6-e70c-9aa442454eaa@173.199.122.162:443?mode=gun&security=reality&encryption=none&pbk=09fO1eQEJfCiXw-CXd3oEkSoBx2hHpX5ZbpdKkUyuiw&fp=chrome&type=grpc&serviceName=443vless&sni=roro44.com&sid=82da0e90491e74f4#@mobilesignal
 
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.30:2198?security=none&encryption=none&headerType=none&type=tcp#@mobilesignal
@@ -72,7 +70,11 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.215.113:8080?encryption=none
 
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.61.8:8080?encryption=none&security=none&type=ws&host=green-rice-f490.7mehdinorouzi7.workers.dev&path=%2F#@m3hdiclub
 
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.148.22:8080?encryption=none&security=none&type=ws&host=green-rice-f490.7mehdinorouzi7.workers.dev&path=%2F#@m3hdiclub
+
 vmess://eyJhZGQiOiI5NS4xNjQuMTAuMTE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjEwMDg5YTU1LTI2YzAtNTIxNC05NTZiLWFjYWYzNDQ3MTE5YiIsIm5ldCI6ImdycGMiLCJwYXRoIjoidm1lc3MtZ3JwYyIsInBvcnQiOiI4ODgwIiwicHMiOiJAVjJyYXkxX05nIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
+
+vmess://eyJhZGQiOiIwMDAwOjAwMDA6MDAwMDowMDAwOjAwMDA6ZmZmZjo4YjNiOjA5NzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InRlbGVncmFtLnZwbi1jbGllbnRwcm8ucG9ybi5iaXouZGRucy1pcC5uZXQiLCJpZCI6ImFjYmM5ODdlLTZjNGMtNDYxOS04ZmEzLWYxNzc5NTY3OGIzYiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwODIiLCJwcyI6IkBWMnJheTFfTmciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiIxNTEuMTAxLjE5NC4xMzMiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiNTUwODEuaXIiLCJpZCI6ImM2OWYzMDI5LWFlMWUtNDVjYS1hYTA4LTcwOTcwZjE0ZGZkMiIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYWNldnBuP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IkBWMnJheTFfTmciLCJzY3kiOiJhdXRvIiwic25pIjoibWlvLnNwbGFzaHRoYXQuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
@@ -81,6 +83,8 @@ vmess://eyJhZGQiOiIxNTEuMTAxLjIuMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiIxNTIuNjkuMTk3LjYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIxNTIuNjkuMTk3LjYwIiwiaWQiOiJhYzhlMjZmZS04MTUwLTRiNjAtYWU2NC04MmZjNzdlYmEyY2YiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMDY5IiwicHMiOiJAVjJyYXkxX05nIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiIxODguMjQ1LjIxMS4xMzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNjQwZWE4OGItOGU1MC00ZTZlLThiYzMtOWY1MDk3YzYxN2RkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2RhP2VkXHUwMDNkMjU2MCIsInBvcnQiOiI4MDgwIiwicHMiOiJAVjJyYXkxX05nIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+vmess://eyJhZGQiOiJURWxlR3JBbS10aGN2cG4uU2VydmVoQWxmbElmZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InRoYy12cG4uY2xvdWRmbGFyZS5iaXouZGRucy1pcC5uZXQiLCJpZCI6ImZiNGZlMTRhLTcyOWQtNGYzYi1hZjlhLTE0NzE0ZjU0OWZhZSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwODIiLCJwcyI6IkBWMnJheTFfTmciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiJzYWZlLnNhbmplc2gub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjIxNjViZDFjLTgyZmYtNDRjOC1iN2VhLThkOWVlNTMyYzc3MCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODI0OSIsInBzIjoiQFYycmF5MV9OZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
@@ -102,11 +106,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#@mobilesignal
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#Freebirdshttps://t.me/freeebirdss
-
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.95:443#%40V2ray1_Ng
 
+trojan://23d58330-ceb8-11ef-af55-1239d0255272@fr1.test3.net:443?path=%2Fhowdy&security=tls&host=fr1.test3.net&type=ws&sni=fr1.test3.net#%40V2ray1_Ng
+
 trojan://3169fbd0-c85d-11ef-807b-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp&sni=zula.ir#%40V2ray1_Ngنامحدود ۲۴ ساعته 🇮🇷@V2ray1_Ng
+
+trojan://d06a14d0-ceb9-11ef-a13e-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#%40V2ray1_Ng
 
 trojan://m3hdiclub@103.21.244.72:443?security=tls&sni=little-sea-273d.7mehdinorouzi7.workers.dev&fp=randomized&type=ws&host=little-sea-273d.7mehdinorouzi7.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
 
@@ -131,6 +137,4 @@ trojan://m3hdiclub@172.64.68.22:443?security=tls&sni=little-sea-273d.7mehdinorou
 trojan://m3hdiclub@188.114.98.44:443?security=tls&sni=little-sea-273d.7mehdinorouzi7.workers.dev&fp=randomized&type=ws&host=little-sea-273d.7mehdinorouzi7.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
 
 trojan://m3hdiclub@190.93.246.253:443?security=tls&sni=little-sea-273d.7mehdinorouzi7.workers.dev&fp=randomized&type=ws&host=little-sea-273d.7mehdinorouzi7.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
-
-trojan://wkmY1R4EcP@45.76.228.197:443?encryption=none&security=tls&sni=z-v2-003263.kailib.com&type=tcp&headerType=none#%E2%9A%A1@DeamNet_Proxy+%F0%9F%94%BB%F0%9F%87%BA%F0%9F%87%B8US+%F0%9F%94%BA%F0%9F%87%BA%F0%9F%87%B8US+%E2%98%91ADSL⚡@DeamNet_Proxy @DeamNet
 
