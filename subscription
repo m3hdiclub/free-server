@@ -40,13 +40,15 @@ hysteria2://162bbc96-3a90-4c68-8ad1-59d6ed96add8@yukuai-us.jiumaojiu.org:48517?i
 
 hysteria2://162bbc96-3a90-4c68-8ad1-59d6ed96add8@yukuai-us.jiumaojiu.org:48706?insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2
 
+vless://02500334-97ea-4952-b648-e27c42dd3a65@clearcreditrepair.com:443?security=tls&encryption=none&host=ELiV2RAY.cc&fp=randomized&type=ws&sni=clearcreditrepair.com#%40V2ray1_Ng%20ALL
+
+vless://0862aacf-9eb1-46ef-9743-df83346e1a08@hajlab.ucdavis.edu:443?security=tls&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.drlimit.net&fp=chrome&type=ws&sni=hajlab.ucdavis.edu#%40V2ray1_Ng
+
 vless://087e5e9e-5ac0-4d14-b659-b7991ddd15d8@172.66.47.116:443?path=/sJEKPxQXZXXECAPq/ZGUucmFkaWNhbGx5LnBybw%3D%3D&eh=Sec-WebSocket-Protocol&ed=2560&encryption=none&host=hamedp71-b.pages.dev&type=ws&security=tls&sni=haMEDP71-b.pAGEs.deV&fp=randomized&alpn=http/1.1#🇩🇪hamedp71🇩🇪
 
 vless://20c60350-172c-40c3-b1e0-ae495c43a424@91.134.38.117:58060?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@mobilesignal
 
-vless://3c2e5f39-d738-40d4-929c-249ea568cb4a@65.109.228.235:45743?security=none&encryption=none&headerType=none&type=tcp#%40V2ray1_Ng
-
-vless://3c2e5f39-d738-40d4-929c-249ea568cb4a@digikalacomgooglecomsof98varzesh3com3.bestsoftware4you.com:45743?security=none&encryption=none&headerType=none&type=tcp#%40V2ray1_Ng
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=edge.validbv3528.ir&type=ws#%40V2ray1_Ng
 
 vless://4d8426b2-0af1-4eb5-a231-b62152d7b9b9@cloud.xmsvx.com:443?path=%2FTorVipxyy%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=aft.vc&fp=chrome&type=ws&sni=live.989bull.com#%40V2ray1_Ng
 
@@ -68,15 +70,11 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.177.51:8080?encryption=none&
 
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.2.57:8080?encryption=none&security=none&type=ws&host=green-rice-f490.7mehdinorouzi7.workers.dev&path=%2F#@m3hdiclub
 
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.202.232:8080?encryption=none&security=none&type=ws&host=green-rice-f490.7mehdinorouzi7.workers.dev&path=%2F#@m3hdiclub
-
 vmess://eyJhZGQiOiIwMDAwOjAwMDA6MDAwMDowMDAwOjAwMDA6ZmZmZjo4YjNiOjA5NzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InRlbGVncmFtLnZwbi1jbGllbnRwcm8ucG9ybi5iaXouZGRucy1pcC5uZXQiLCJpZCI6ImFjYmM5ODdlLTZjNGMtNDYxOS04ZmEzLWYxNzc5NTY3OGIzYiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwODIiLCJwcyI6IkBWMnJheTFfTmciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiIxNTEuMTAxLjE5NC4xMzMiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiNTUwODEuaXIiLCJpZCI6ImM2OWYzMDI5LWFlMWUtNDVjYS1hYTA4LTcwOTcwZjE0ZGZkMiIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYWNldnBuP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IkBWMnJheTFfTmciLCJzY3kiOiJhdXRvIiwic25pIjoibWlvLnNwbGFzaHRoYXQuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiIxNTEuMTAxLjIuMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI1NTA4MS5pciIsImlkIjoiYzY5ZjMwMjktYWUxZS00NWNhLWFhMDgtNzA5NzBmMTRkZmQyIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JhY2V2cG4/ZWRcdTAwM2Q4MCIsInBvcnQiOiI4MCIsInBzIjoiQFYycmF5MV9OZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiIxNTIuNjkuMTk3LjYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIxNTIuNjkuMTk3LjYwIiwiaWQiOiJhYzhlMjZmZS04MTUwLTRiNjAtYWU2NC04MmZjNzdlYmEyY2YiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMDY5IiwicHMiOiJAVjJyYXkxX05nIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiIxODguMjQ1LjIxMS4xMzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNjQwZWE4OGItOGU1MC00ZTZlLThiYzMtOWY1MDk3YzYxN2RkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2RhP2VkXHUwMDNkMjU2MCIsInBvcnQiOiI4MDgwIiwicHMiOiJAVjJyYXkxX05nIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 
@@ -103,8 +101,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#@mobilesignal
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#@mobilesignal
-
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.95:443#%40V2ray1_Ng
 
 trojan://23d58330-ceb8-11ef-af55-1239d0255272@fr1.test3.net:443?path=%2Fhowdy&security=tls&host=fr1.test3.net&type=ws&sni=fr1.test3.net#%40V2ray1_Ng
 
