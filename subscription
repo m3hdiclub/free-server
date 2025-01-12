@@ -114,8 +114,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.c
 
 trojan://23d58330-ceb8-11ef-af55-1239d0255272@fr1.test3.net:443?path=%2Fhowdy&security=tls&host=fr1.test3.net&type=ws&sni=fr1.test3.net#%40V2ray1_Ng
 
-trojan://auto@nameless-term-9c25.vpnconnect202020.workers.dev:443?encryption=none&security=tls&sni=nameless-term-9c25.vpnconnect202020.workers.dev&fp=randomized&type=ws&host=nameless-term-9c25.vpnconnect202020.workers.dev&path=%2F%3Fed%3D2560#%E2%9A%A1@DeamNet_Proxy+%F0%9F%94%BB%F0%9F%87%A8%F0%9F%87%A6CA+%F0%9F%94%BA%F0%9F%87%A9%F0%9F%87%AADE+%E2%98%91MTN⚡@DeamNet_Proxy @DeamNet
-
 trojan://d06a14d0-ceb9-11ef-a13e-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#%40V2ray1_Ng
 
 trojan://m3hdiclub@103.21.244.72:443?security=tls&sni=little-sea-273d.7mehdinorouzi7.workers.dev&fp=randomized&type=ws&host=little-sea-273d.7mehdinorouzi7.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
