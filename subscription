@@ -52,19 +52,15 @@ vless://acfe23eb-e73f-4678-cfe7-5b88e9fd603f@157.10.53.154:38244?flow=xtls-rprx-
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344749214.amsterdam-blk-dra.info:8880?type=grpc&mode=gun#@fnet00
 
+vless://f2fa2843-5614-4fa7-99fe-da22f7307ad8@137.175.84.77:32066?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=apple.com&pbk=-LeP2n_qttyDuBpYQA8a7q4AOYeQGOkkaxnyLlb8vgo&sid=4f27#@fnet00
+
 vless://f5fd3d59-7de3-4098-9bc9-cf44ee080784@best1.bestshop10.ir:16072?type=grpc&mode=gun#@fnet00
 
 vless://fed7b870-8d40-4337-b26b-9aca5ac4846f@172.66.44.200:2053?encryption=none&security=tls&sni=hP-dUbAI.pAgES.DEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=hp-dubai.pages.dev&path=%2F5WgBd5EBbPnj2WAy%2FMy4yOS4xMDIuODk%3D%3Fed%3D2560#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20%3A%202053
 
-vless://fed7b870-8d40-4337-b26b-9aca5ac4846f@172.66.44.200:2096?encryption=none&security=tls&sni=Hp-DubaI.pAgeS.dEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=hp-dubai.pages.dev&path=%2Fnjm8YPPQ3CO8ktS3%2FMy4yOS4xMDIuODk%3D%3Fed%3D2560#%F0%9F%92%A6%2020%20-%20VLESS%20-%20IPv4%20%3A%202096
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig77.usecharge.ir:443?type=tcp#@fnet00
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@exchange.gameaurela.click:52952?type=tcp#@fnet00
 
 trojan://298657e1-111e-432f-8222-4076146222e2@vpninter.net:443?security=tls&sni=vpninter.net&allowInsecure=1&type=ws&host=vpninter.net&path=%2F195.245.113.247-443#3%20%F0%9F%87%A7%F0%9F%87%AC%20Friendhosting%20LTD%20WS%20TLS%20%5BVPNINTER.NET%5D
-
-trojan://3723507166611775488@5.189.203.39:443?security=tls&sni=lucky-grouper.boa152.lol&type=tcp#🇳🇱@xs_filternetهمه کلاینت ها نامحدود
 
 trojan://4c691800-7e74-4cf9-b52f-fc5fd7f71c47@vpninter.net:443?security=tls&sni=vpninter.net&allowInsecure=1&type=ws&host=vpninter.net&path=%2F38.180.48.228-443#8%20%F0%9F%87%A8%F0%9F%87%BF%20M247%20Europe%20WS%20TLS%20%5BVPNINTER.NET%5D
 
@@ -91,4 +87,6 @@ trojan://860KsF%2ATS%25jSaaC%26@hp-dubai.pages.dev:2053?security=tls&sni=hP-dUBa
 trojan://860KsF%2ATS%25jSaaC%26@hp-dubai.pages.dev:2096?security=tls&sni=hp-duBaI.pagES.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=hp-dubai.pages.dev&path=%2FtrqrIykWx10rGxxL3W%2FMy4yOS4xMDIuODk%3D%3Fed%3D2560#%F0%9F%92%A6%2017%20-%20Trojan%20-%20Domain%20%3A%202096
 
 trojan://860KsF%2ATS%25jSaaC%26@ip.sb:2053?security=tls&sni=Hp-dUbaI.pagES.DeV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=hp-dubai.pages.dev&path=%2FtrRAZVWKYsdjnhHh58%2FMy4yOS4xMDIuODk%3D%3Fed%3D2560#%F0%9F%92%A6%205%20-%20Trojan%20-%20Clean%20IP%20%3A%202053
+
+trojan://860KsF%2ATS%25jSaaC%26@ip.sb:2096?security=tls&sni=Hp-dUbAi.PaGeS.DEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=hp-dubai.pages.dev&path=%2FtrHLT0KVS8Rb4L72OM%2FMy4yOS4xMDIuODk%3D%3Fed%3D2560#%F0%9F%92%A6%2021%20-%20Trojan%20-%20Clean%20IP%20%3A%202096
 
