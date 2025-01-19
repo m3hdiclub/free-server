@@ -78,7 +78,7 @@
       "outbounds": [
         "auto",
         "direct",
-        "hy2"
+        "Telegram&YouTube:@Mikronet_plus"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -86,7 +86,7 @@
     {
       "interval": "10m",
       "outbounds": [
-        "hy2"
+        "Telegram&YouTube:@Mikronet_plus"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -113,7 +113,7 @@
       "password": "Telegram:Mikronet-plus",
       "server": "mikronetplus.mikronetplus.store",
       "server_port": 3678,
-      "tag": "hy2",
+      "tag": "Telegram&YouTube:@Mikronet_plus",
       "tls": {
         "enabled": true,
         "insecure": false
