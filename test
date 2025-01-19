@@ -78,7 +78,7 @@
       "outbounds": [
         "auto",
         "direct",
-        "KevinVPN"
+        "hy2"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -86,7 +86,7 @@
     {
       "interval": "10m",
       "outbounds": [
-        "KevinVPN"
+        "hy2"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -113,10 +113,18 @@
       "password": "Telegram:%40KevinZakarian",
       "server": "kevin.iserver.store",
       "server_port": 8443,
-      "tag": "KevinVPN",
+      "tag": "hy2",
       "tls": {
         "enabled": true,
-        "insecure": true
+        "insecure": true,
+        "ech": {
+          "config": [
+            "-----BEGIN ECH CONFIGS-----",
+            "ADn+DQA1AAAgACDNc23qWgJceRZW4j2CstZ/izufuSWFJN50vexjm8gtWwAIAAEA",
+            "AQABAAMAAicnAAA=",
+            "-----END ECH CONFIGS-----"
+          ]
+        }
       },
       "type": "hysteria2"
     }
