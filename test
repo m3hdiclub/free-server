@@ -107,24 +107,16 @@
     },
     {
       "obfs": {
-        "password": "Telegram:@KevinZakarian",
+        "password": "Telegram:Mikronet_plus",
         "type": "salamander"
       },
-      "password": "Telegram:%40KevinZakarian",
-      "server": "kevin.iserver.store",
-      "server_port": 8443,
+      "password": "Telegram:Mikronet-plus",
+      "server": "mikronetplus.mikronetplus.store",
+      "server_port": 3678,
       "tag": "hy2",
       "tls": {
         "enabled": true,
-        "insecure": true,
-        "ech": {
-          "config": [
-            "-----BEGIN ECH CONFIGS-----",
-            "ADn+DQA1AAAgACDNc23qWgJceRZW4j2CstZ/izufuSWFJN50vexjm8gtWwAIAAEA",
-            "AQABAAMAAicnAAA=",
-            "-----END ECH CONFIGS-----"
-          ]
-        }
+        "insecure": false
       },
       "type": "hysteria2"
     }
