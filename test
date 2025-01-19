@@ -78,7 +78,7 @@
       "outbounds": [
         "auto",
         "direct",
-        "Telegram&YouTube:@Mikronet_plus"
+        "hy2"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -86,7 +86,7 @@
     {
       "interval": "10m",
       "outbounds": [
-        "Telegram&YouTube:@Mikronet_plus"
+        "hy2"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -107,16 +107,16 @@
     },
     {
       "obfs": {
-        "password": "Telegram:Mikronet_plus",
+        "password": "Telegram:@KevinZakarian",
         "type": "salamander"
       },
-      "password": "Telegram:Mikronet-plus",
-      "server": "mikronetplus.mikronetplus.store",
-      "server_port": 3678,
-      "tag": "Telegram&YouTube:@Mikronet_plus",
+      "password": "Telegram:%40KevinZakarian",
+      "server": "kevin.iserver.store",
+      "server_port": 8443,
+      "tag": "hy2",
       "tls": {
         "enabled": true,
-        "insecure": false
+        "insecure": true
       },
       "type": "hysteria2"
     }
