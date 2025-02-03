@@ -18,6 +18,12 @@
       {
         "clash_mode": "Direct",
         "server": "direct-dns"
+      },
+      {
+        "rule_set": [
+          "geosite-ir"
+        ],
+        "server": "direct-dns"
       }
     ],
     "servers": [
@@ -78,7 +84,7 @@
       "outbounds": [
         "auto",
         "direct",
-        "KevinVPN"
+        "hysteria2"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -86,7 +92,7 @@
     {
       "interval": "10m",
       "outbounds": [
-        "KevinVPN"
+        "hysteria2"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -107,13 +113,13 @@
     },
     {
       "obfs": {
-        "password": "Telegram:@KevinZakarian",
+        "password": "@M3hdiClub",
         "type": "salamander"
       },
-      "password": "Telegram:%40KevinZakarian",
-      "server": "kevin.iserver.store",
-      "server_port": 8443,
-      "tag": "KevinVPN",
+      "password": "COaP1LWHOb",
+      "server": "62.133.63.114",
+      "server_port": 443,
+      "tag": "hysteria2",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -135,9 +141,23 @@
       {
         "download_detour": "direct",
         "format": "binary",
+        "tag": "geosite-private",
+        "type": "remote",
+        "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/private.srs"
+      },
+      {
+        "download_detour": "direct",
+        "format": "binary",
         "tag": "geosite-ir",
         "type": "remote",
         "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/category-ir.srs"
+      },
+      {
+        "download_detour": "direct",
+        "format": "binary",
+        "tag": "geoip-private",
+        "type": "remote",
+        "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geoip/private.srs"
       },
       {
         "download_detour": "direct",
@@ -161,10 +181,17 @@
         "protocol": "dns"
       },
       {
+        "outbound": "direct",
+        "rule_set": [
+          "geoip-private",
+          "geosite-private",
+          "geosite-ir",
+          "geoip-ir"
+        ]
+      },
+      {
         "outbound": "block",
         "rule_set": [
-          "geosite-ir",
-          "geoip-ir",
           "geosite-ads"
         ]
       }
