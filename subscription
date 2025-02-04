@@ -50,15 +50,7 @@ vless://6220e7ac-edde-4c38-ba87-ebd6a67c8985@m3hdiclub-free-1cs.pages.dev:443?en
 
 vless://8d052411-1bff-42da-81cc-3f1d81550dbd@165.1.64.133:20303?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.yahoo.com&pbk=SF-MPoMzBbv3p6dlm_hUgg5yxpB0P93droF86CrnPws&sid=be5acf81#@fnet00
 
-vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@hk04.ssr.ee:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=itunes.apple.com&pbk=7FUPFfHmcQGEF1WsK5UV28TAj_cZcBXgm_M9pFHBcEg&sid=6ba85179e30d4fc2#@fnet00
-
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.10:8880?type=grpc&mode=gun#@fnet00
-
-hysteria2://54185b6e-851a-4109-b6a9-7beb86f41c05@sg.ktmurl.club:18383?sni=sg.ktmurl.club&insecure=0#@fnet00
-
-hysteria2://92dc14c5-e2b0-41bc-9827-1b687295c530@rb1.xiaofeixia.cyou:2052?sni=rb1.xiaofeixia.cyou&insecure=0#@fnet00
-
-hysteria2://92dc14c5-e2b0-41bc-9827-1b687295c530@rb2.xiaofeixia.cyou:2052?sni=rb2.xiaofeixia.cyou&insecure=0#@fnet00
 
 hysteria2://Telegram:%40KevinZakarian@kevin.iserver.store:8443?obfs=salamander&obfs-password=Telegram%3A%40KevinZakarian&insecure=1#KevinVPN
 
