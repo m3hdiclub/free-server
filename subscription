@@ -10,8 +10,6 @@ trojan://4c691800-7e74-4cf9-b52f-fc5fd7f71c47@vpninter.net:443?security=tls&sni=
 
 trojan://84b1dffb-b80b-4b37-b32e-864697f76aec@vpninter.net:443?security=tls&sni=vpninter.net&allowInsecure=1&type=ws&host=vpninter.net&path=%2F94.23.171.114-2053#1%20%F0%9F%87%AB%F0%9F%87%B7%20OVHcloud%20WS%20TLS%20%5BVPNINTER.NET%5D
 
-trojan://C9zSyneYN7Rl3K38qxu5y3axI82CaEXZ0SwjZFplDpYaTcOABDDOC6SeF4R3Ag@deliver.missionsec.io:28331?type=tcp&security=tls&sni=deliver.missionsec.io#@fnet00
-
 trojan://c09dfe37-0c87-44fa-a7dd-8bf203d09d19@vpninter.net:443?security=tls&sni=vpninter.net&allowInsecure=1&type=ws&host=vpninter.net&path=%2F91.108.241.44-8443#8%20%F0%9F%87%AB%F0%9F%87%AE%20Aeza%20International%20WS%20TLS%20%5BVPNINTER.NET%5D
 
 trojan://c8445e69-2f6f-4a0f-8232-6800da3daa75@vpninter.net:443?security=tls&sni=vpninter.net&allowInsecure=1&type=ws&host=vpninter.net&path=%2F217.195.200.153-1#2%20%F0%9F%87%A6%F0%9F%87%AA%20G-Core%20Labs%20SA%20WS%20TLS%20%5BVPNINTER.NET%5D
@@ -30,7 +28,7 @@ trojan://m3hdiclub@103.21.245.21:443?security=tls&sni=little-sea-273d.7mehdinoro
 
 trojan://m3hdiclub@104.16.147.220:443?security=tls&sni=little-sea-273d.7mehdinorouzi7.workers.dev&fp=randomized&type=ws&host=little-sea-273d.7mehdinorouzi7.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
 
-vless://10ade744-d103-40d8-83e0-77a9bc343c07@156.229.163.157:12328?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.swift.com&pbk=0YSYFeihg5eJSBANonnWjrMl4SrWsZ0bdPOKhPdFpFI&sid=6ba85179e30d4fc2#@fnet00
+trojan://m3hdiclub@104.16.83.150:443?security=tls&sni=little-sea-273d.7mehdinorouzi7.workers.dev&fp=randomized&type=ws&host=little-sea-273d.7mehdinorouzi7.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
 
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@ams1.fromblancwithlove.com:8443?type=tcp&security=tls&alpn=h2#@fnet00
 
